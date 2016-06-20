@@ -76,9 +76,6 @@ public class FindAnagramsDriver {
         public String toString() {
             Text[] strings = (Text[] )super.get();
             String output = "";
-            if (strings == null) {
-                System.out.println("strings is null in the first place");
-            }
             for (Text t: strings) {
                 output = t.toString() + " " + output;
             }
