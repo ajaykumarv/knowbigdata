@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="assign3_find_people_same_dna:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/assign3_find_people_same_dna_jar</output-path>
+    <root id="archive" name="assign3_find_people_same_dna.jar">
+      <element id="module-output" name="assign3_find_people_same_dna" />
+    </root>
+  </artifact>
+</component>
